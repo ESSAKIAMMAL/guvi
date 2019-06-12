@@ -1,5 +1,2 @@
-import math
-num=int(input())
-expo=int(input())
-p=math.pow(num,expo)
-print(p)
+r,s=map(int,input().split())
+print(r**s)
