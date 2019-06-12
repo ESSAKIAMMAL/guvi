@@ -1,10 +1,10 @@
-num1=int(input())
-num2=int(input())
-num3=int(input())
-if (num1 >= num2) and (num1 >= num3):
-   print( num1)
-elif (num2 >= num1) and (num2 >= num3):
-   print(num2)
+n1=int(input())
+n2=int(input())
+n3=int(input())
+if (n1 >= n2) and (n1 >= n3):
+   print( n1)
+elif (n2 >= n1) and (n2 >= n3):
+   print(n2)
 else:
-   print(num3)
+   print(n3)
 
