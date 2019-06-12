@@ -1,5 +1,5 @@
 import math
-number=int(input())
-exponent=int(input())
-power=math.pow(number,exponent)
-print(power)
+num=int(input())
+expo=int(input())
+p=math.pow(num,expo)
+print(p)
