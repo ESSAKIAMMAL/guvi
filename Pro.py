@@ -1,3 +1,3 @@
-e,g,k=map(int,input().split())
-if(n>1 and n<=100000):
- print(int((e/2)*(2*g + (n-1)*k)))
+e,r,t=map(int,input().split())
+if(e>1 and e<=100000):
+ print(int((e/2)*(2*r+ (e-1)*t)))
