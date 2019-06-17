@@ -1,3 +1,3 @@
-O = int(input())
-P = list(map(int, input().split()))
-print(min(p))
+j= int(input())
+l= list(map(int, input().split()))
+print(min(l))
