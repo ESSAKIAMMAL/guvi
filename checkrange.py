@@ -1,5 +1,5 @@
-p=int(input())
-if p>1 and p<10:
+z=int(input())
+if z>1 and z<10:
   print("yes")
 else:
   print("no")  
