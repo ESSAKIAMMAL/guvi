@@ -1,2 +1,2 @@
-W=input()
-print(len(W)-Word.count(' '))
+w=input()
+print(len(w)-w.count(' '))
