@@ -1,0 +1,2 @@
+eski = input()
+print(eski)
