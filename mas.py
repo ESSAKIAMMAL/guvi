@@ -1,3 +1,3 @@
-mas,bent=map(str,input().split())
-car=int(bent)
+mas,ben=map(str,input().split())
+car=int(ben)
 print(mas[-car:])
