@@ -1,3 +1,3 @@
-inp=input()
-string=str(inp)
+ip=input()
+string=str(ip)
 print(len(string))
