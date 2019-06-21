@@ -1,0 +1,2 @@
+bhuv = input()
+print(bhuv)
