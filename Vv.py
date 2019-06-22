@@ -1,8 +1,8 @@
-st=list(input())
-if len(st)%2==0:
-    st[int(len(st)/2)] ='*'
-    st[int(len(st)/2)-1]='*'
+sut=list(input())
+if len(sut)%2==0:
+    sut[int(len(sut)/2)] ='*'
+    sut[int(len(sut)/2)-1]='*'
 else:
-    st[int(len(st)/2)] ='*'
-for i in range(0,len(st)):
-    print(st[i],end='')
+    sut[int(len(sut)/2)] ='*'
+for i in range(0,len(sut)):
+    print(sut[i],end='')
