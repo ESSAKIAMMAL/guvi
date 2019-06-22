@@ -1,3 +1,3 @@
 import math
-numbr=float(input())
-print(math.ceil(numbr))
+nmr=float(input())
+print(math.ceil(nmr))
